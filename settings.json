@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "KebabSMP",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "KebabSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "KebabSMP67.aternos.me",
+    "port": 58727,
     "version": "",
     "try-creative": false
   },
@@ -41,7 +41,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
